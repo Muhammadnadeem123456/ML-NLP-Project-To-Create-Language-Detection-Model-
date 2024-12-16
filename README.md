@@ -65,13 +65,7 @@
 
       
 
-**Contact
-**
 
-**  For questions or support, please contact:
-**
-      **-Your Name: Muhammad Nadeem
-      -Email: your.email@example.com**
 
 
 
